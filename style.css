@@ -1,0 +1,24 @@
+h2 {
+    border: 5px solid white;
+    background-color: antiquewhite;
+}
+
+#canned-goods {
+    border: 5px dashed white;
+    background-color: lightgray;
+}
+
+#dry-goods {
+    border: 5px dashed white;
+    background-color: bisque;
+}
+
+#fridge-items {
+    border: 5px dashed white;
+    background-color: aliceblue;
+}
+
+#freezer-items {
+    border: 5px dashed white;
+    background-color: blanchedalmond;
+}
