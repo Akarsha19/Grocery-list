@@ -6,19 +6,30 @@ h2 {
 #canned-goods {
     border: 5px dashed white;
     background-color: lightgray;
+    float: right;
+    padding: 20px;
+
 }
 
 #dry-goods {
     border: 5px dashed white;
     background-color: bisque;
+    float: left;
+    padding: 20px;
 }
 
 #fridge-items {
     border: 5px dashed white;
     background-color: aliceblue;
+    float: left;
+    margin-left: 10px;
+    padding: 20px;
 }
 
 #freezer-items {
     border: 5px dashed white;
     background-color: blanchedalmond;
+    float: right;
+    margin-right: 10px;
+    padding: 20px;
 }
